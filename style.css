@@ -1,0 +1,125 @@
+/*
+Theme Name: Manazel Real Estate Theme
+Theme URI: https://example.com/manazel-theme
+Author: Manus AI Agent
+Author URI: https://example.com
+Description: A custom WordPress theme for Manazel Real Estate, designed for English language and easy customization. Inspired by manazel.me with enhanced features and aesthetics. Color Scheme: Dark Blue (#2A3B47), Gold (#D4AF37), White.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: manazel-theme
+Tags: real-estate, custom-header, custom-menu, featured-images, threaded-comments, translation-ready, blog, portfolio, e-commerce, one-column, two-columns, right-sidebar, left-sidebar, full-width-template, theme-options, custom-background, custom-colors, editor-style, accessibility-ready, rtl-language-support
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cairo', sans-serif; /* Example Arabic-friendly font, will adjust for English */
+    line-height: 1.6;
+    color: #333;
+    background-color: #FFFFFF; /* White background */
+}
+
+a {
+    color: #D4AF37; /* Gold for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+/* Header Styles */
+.site-header {
+    background-color: #2A3B47; /* Dark Blue */
+    color: #FFFFFF; /* White text */
+    padding: 1em 0;
+}
+
+.site-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-title a {
+    color: #FFFFFF;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.main-navigation ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-navigation ul li {
+    margin-left: 20px;
+}
+
+.main-navigation ul li a {
+    color: #FFFFFF;
+    font-size: 1em;
+}
+
+.main-navigation ul li a:hover,
+.main-navigation ul li.current-menu-item a {
+    color: #D4AF37; /* Gold for hover/active */
+}
+
+.header-cta-button {
+    background-color: #D4AF37; /* Gold */
+    color: #2A3B47; /* Dark Blue text */
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.header-cta-button:hover {
+    background-color: #c09b30; /* Darker Gold */
+    text-decoration: none;
+}
+
+/* Hero Section */
+.hero-section {
+    /* Placeholder for full-screen video/slider */
+    background-color: #f0f0f0; /* Light grey placeholder */
+    padding: 100px 0;
+    text-align: center;
+    color: #2A3B47;
+}
+
+.hero-section h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Add more styles as development progresses */
+
+/* Footer Styles */
+.site-footer {
+    background-color: #2A3B47; /* Dark Blue */
+    color: #FFFFFF; /* White text */
+    padding: 2em 0;
+    text-align: center;
+}
+
+.site-footer a {
+    color: #D4AF37; /* Gold for links in footer */
+}
+

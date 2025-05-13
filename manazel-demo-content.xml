@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a manually created WXR file for demo content. -->
+<!-- It may not be fully compliant for direct WordPress import without adjustments, -->
+<!-- but serves as a structured guide for content creation. -->
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+    <title>Manazel Real Estate Demo</title>
+    <link>https://example.com/manazel-theme</link>
+    <description>Demo content for the Manazel Real Estate Theme</description>
+    <pubDate>Thu, 08 May 2025 11:30:00 +0000</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://example.com/manazel-theme</wp:base_site_url>
+    <wp:base_blog_url>https://example.com/manazel-theme</wp:base_blog_url>
+
+    <wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+    <generator>Manus AI Manual Export</generator>
+
+    <!-- Sample Pages -->
+    <item>
+        <title>Homepage</title>
+        <link>https://example.com/manazel-theme/</link>
+        <pubDate>Thu, 08 May 2025 11:31:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=1</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Welcome to Manazel Real Estate! Your journey to finding the perfect property starts here. Our homepage is designed to give you a seamless experience, showcasing featured listings, our key services, and what makes us different.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Use the advanced search bar in the hero section to filter properties by type, location, and price. Explore our curated selections and discover why Manazel is the trusted name in real estate.</p>
+<!-- /wp:paragraph -->
+
+<!-- Placeholder for theme sections like Hero, Features, Featured Listings, Testimonials, Blog Preview, Contact -->
+<!-- These sections are typically built with the theme's template parts or Elementor. -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>1</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:31:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:31:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[homepage]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <item>
+        <title>Services</title>
+        <link>https://example.com/manazel-theme/services/</link>
+        <pubDate>Thu, 08 May 2025 11:32:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=2</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>At Manazel Real Estate, we offer a comprehensive suite of services to meet all your property needs. Our expert team is dedicated to providing you with personalized solutions and exceptional support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Our Core Services</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Property Buying & Selling:</strong> Guidance through every step of purchasing your new home or selling your current property.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Property Management:</strong> Professional management services for your real estate investments, ensuring peace of mind and optimal returns.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Legal Consulting:</strong> Expert legal advice and assistance for all your real estate transactions.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Investment Advisory:</strong> Strategic advice to help you make informed decisions on real estate investments.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Each service is tailored to your unique requirements. Contact us to learn more about how we can assist you.</p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>2</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:32:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:32:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[services]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <item>
+        <title>Property Listings</title>
+        <link>https://example.com/manazel-theme/listings/</link>
+        <pubDate>Thu, 08 May 2025 11:33:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=3</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Explore our extensive collection of properties. Use the advanced filters to narrow down your search by price, number of rooms, location, and more. Our listings page features an interactive map integration to help you visualize property locations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(This page will typically display an archive of your 'property' custom post type, managed by your chosen Real Estate plugin and the theme's archive templates. The content here is a placeholder.)</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>3</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:33:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:33:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[listings]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <item>
+        <title>About Us</title>
+        <link>https://example.com/manazel-theme/about/</link>
+        <pubDate>Thu, 08 May 2025 11:34:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=4</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Manazel Real Estate was founded with a vision to redefine the property experience. With over a decade of expertise, we have proudly served 500+ clients, helping them navigate the complexities of the real estate market.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Our Mission</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To provide transparent, reliable, and client-focused real estate services that build lasting relationships and achieve exceptional results.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Our Team</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Meet our dedicated team of professionals who are passionate about real estate and committed to your success. (Team profiles would be added here, possibly as a separate section or using a plugin).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(Placeholder for company vision video - 30 sec)</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>4</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:34:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:34:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[about]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <item>
+        <title>Blog</title>
+        <link>https://example.com/manazel-theme/blog/</link>
+        <pubDate>Thu, 08 May 2025 11:35:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=5</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Welcome to the Manazel Real Estate blog! Here you'll find insightful articles, market trends, tips for buyers and sellers, and guides on choosing your perfect home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(This page will typically be set as the 'Posts page' in WordPress Reading Settings and will display an archive of your blog posts using the theme's archive/index templates.)</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>5</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:35:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:35:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[blog]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <item>
+        <title>Contact Us</title>
+        <link>https://example.com/manazel-theme/contact/</link>
+        <pubDate>Thu, 08 May 2025 11:36:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?page_id=6</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>We'd love to hear from you! Whether you have a question about a property, need assistance with our services, or just want to say hello, please feel free to get in touch using the form below or through our contact details.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(The contact form itself will be added via a plugin like WPForms or Contact Form 7. The theme's section-contact.php provides a placeholder for this. The map will also be integrated here.)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Our Office</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>123 Real Estate St, Property City, CA 90210</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Phone:</strong> +123 456 7890<br><strong>Email:</strong> contact@manazel.me<br><strong>WhatsApp:</strong> <a href="https://wa.me/1234567890">Chat with us</a></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>6</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-08 11:36:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-08 11:36:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[contact]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>5</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+    </item>
+
+    <!-- Sample Blog Posts -->
+    <item>
+        <title>How to Choose Your Perfect Home: A Comprehensive Guide</title>
+        <link>https://example.com/manazel-theme/how-to-choose-your-perfect-home/</link>
+        <pubDate>Mon, 05 May 2025 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?p=101</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Choosing a new home is one of the most significant decisions you'll make. This guide walks you through key considerations, from defining your needs to navigating the market.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>1. Define Your Needs and Budget</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before you start looking, understand what you need in a home (size, location, amenities) and what your budget realistically allows. Getting pre-approved for a mortgage can be a great first step.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>2. Research Locations</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Consider factors like proximity to work, schools, public transport, and lifestyle amenities. Visit neighborhoods at different times of the day to get a real feel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(More content would follow here...)</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Choosing a new home is a significant decision. This guide covers defining needs, budget, researching locations, and more to help you find the perfect property.]]></excerpt:encoded>
+        <wp:post_id>101</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-05 10:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-05 10:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[open]]></wp:comment_status>
+        <wp:ping_status><![CDATA[open]]></wp:ping_status>
+        <wp:post_name><![CDATA[how-to-choose-your-perfect-home]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <category domain="category" nicename="buying-tips"><![CDATA[Buying Tips]]></category>
+        <category domain="post_tag" nicename="home-buying"><![CDATA[home buying]]></category>
+        <category domain="post_tag" nicename="real-estate-advice"><![CDATA[real estate advice]]></category>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+            <wp:meta_value><![CDATA[201]]></wp:meta_value> <!-- Placeholder for featured image ID -->
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Top 5 Real Estate Market Trends in 2025</title>
+        <link>https://example.com/manazel-theme/real-estate-market-trends-2025/</link>
+        <pubDate>Tue, 06 May 2025 14:30:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?p=102</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>The real estate market is constantly evolving. Stay ahead of the curve with our insights into the top 5 trends shaping the industry in 2025, from technology adoption to sustainability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>1. Increased Adoption of PropTech</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Property Technology (PropTech) continues to revolutionize how we buy, sell, and manage properties. Virtual tours, AI-powered analytics, and blockchain transactions are becoming more mainstream.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(More content would follow here...)</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Discover the top 5 real estate market trends for 2025, including PropTech advancements, sustainability focus, and shifting buyer preferences.]]></excerpt:encoded>
+        <wp:post_id>102</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-06 14:30:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-06 14:30:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[open]]></wp:comment_status>
+        <wp:ping_status><![CDATA[open]]></wp:ping_status>
+        <wp:post_name><![CDATA[real-estate-market-trends-2025]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <category domain="category" nicename="market-trends"><![CDATA[Market Trends]]></category>
+        <category domain="post_tag" nicename="proptech"><![CDATA[proptech]]></category>
+        <category domain="post_tag" nicename="real-estate-2025"><![CDATA[real estate 2025]]></category>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+            <wp:meta_value><![CDATA[202]]></wp:meta_value> <!-- Placeholder for featured image ID -->
+        </wp:postmeta>
+    </item>
+
+    <!-- Sample Property Listings (Custom Post Type: property) -->
+    <!-- This structure is a simplified representation. -->
+    <!-- A real estate plugin would handle CPT registration and fields. -->
+    <item>
+        <title>Luxury Villa with Ocean View</title>
+        <link>https://example.com/manazel-theme/property/luxury-villa-ocean-view/</link>
+        <pubDate>Wed, 07 May 2025 09:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?property=301</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Experience unparalleled luxury in this stunning villa offering breathtaking ocean views. This property features spacious living areas, a modern kitchen, private pool, and exquisite finishes throughout. Perfect for those seeking an exclusive coastal lifestyle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Property Details</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Price:</strong> $1,200,000</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Size:</strong> 350 sqm</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Location:</strong> Malibu, California</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Bedrooms:</strong> 4</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Bathrooms:</strong> 3.5</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Features:</strong> Ocean View, Private Pool, Modern Kitchen, Garage</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Stunning luxury villa in Malibu with breathtaking ocean views, 350 sqm, 4 bedrooms, private pool.]]></excerpt:encoded>
+        <wp:post_id>301</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-07 09:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-07 09:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[luxury-villa-ocean-view]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[property]]></wp:post_type> <!-- Assuming 'property' CPT -->
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>1</wp:is_sticky> <!-- Make it a featured/sticky property -->
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_price]]></wp:meta_key>
+            <wp:meta_value><![CDATA[1200000]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[350 sqm]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_location]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Malibu, California]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_bedrooms]]></wp:meta_key>
+            <wp:meta_value><![CDATA[4]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_bathrooms]]></wp:meta_key>
+            <wp:meta_value><![CDATA[3.5]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+            <wp:meta_value><![CDATA[203]]></wp:meta_value> <!-- Placeholder for featured image ID, e.g., property-1.jpg -->
+        </wp:postmeta>
+         <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Modern Downtown Apartment</title>
+        <link>https://example.com/manazel-theme/property/modern-downtown-apartment/</link>
+        <pubDate>Wed, 07 May 2025 10:15:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://example.com/manazel-theme/?property=302</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Chic and modern apartment located in the heart of downtown. Features an open-plan living space, floor-to-ceiling windows with city views, and access to premium building amenities including a gym and rooftop terrace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Property Details</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Price:</strong> $650,000</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Size:</strong> 120 sqm</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Location:</strong> New York, NY</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Bedrooms:</strong> 2</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Bathrooms:</strong> 2</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><strong>Features:</strong> City View, Gym Access, Rooftop Terrace, Concierge</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Modern 2-bedroom downtown apartment in New York, 120 sqm, city views, gym, and rooftop access.]]></excerpt:encoded>
+        <wp:post_id>302</wp:post_id>
+        <wp:post_date><![CDATA[2025-05-07 10:15:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-05-07 10:15:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[modern-downtown-apartment]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[property]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>1</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_price]]></wp:meta_key>
+            <wp:meta_value><![CDATA[650000]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_size]]></wp:meta_key>
+            <wp:meta_value><![CDATA[120 sqm]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_location]]></wp:meta_key>
+            <wp:meta_value><![CDATA[New York, NY]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_bedrooms]]></wp:meta_key>
+            <wp:meta_value><![CDATA[2]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_bathrooms]]></wp:meta_key>
+            <wp:meta_value><![CDATA[2]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+            <wp:meta_value><![CDATA[204]]></wp:meta_value> <!-- Placeholder for featured image ID, e.g., property-2.jpg -->
+        </wp:postmeta>
+         <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[default]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- Placeholder for Media (Featured Images) -->
+    <!-- In a real WXR, media items are listed separately. Here, we just note them. -->
+    <!-- Assume images like property-1.jpg, property-2.jpg, author-1.jpg, etc., are in the theme's assets/images folder -->
+    <!-- and would be uploaded to the media library, then linked via _thumbnail_id. -->
+    <!-- Example media item (simplified):
+    <item>
+        <title>property-1</title>
+        <link>https://example.com/manazel-theme/wp-content/uploads/2025/05/property-1.jpg</link>
+        <wp:attachment_url><![CDATA[https://example.com/manazel-theme/wp-content/uploads/2025/05/property-1.jpg]]></wp:attachment_url>
+        <wp:post_id>203</wp:post_id> 
+        <wp:post_type><![CDATA[attachment]]></wp:post_type>
+        <wp:post_mime_type><![CDATA[image/jpeg]]></wp:post_mime_type>
+    </item>
+    -->
+
+</channel>
+</rss>
+

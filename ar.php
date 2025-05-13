@@ -1,0 +1,197 @@
+<?php
+// lang/ar.php
+
+return [
+    // General
+    // ... (previous translations remain the same)
+    // Property Interactions
+    'invalid_rating_value_en_ar' => 'قيمة التقييم غير صالحة. يرجى الاختيار بين 1 و 5.',
+    'rating_submitted_successfully_en_ar' => 'تم إرسال تقييمك بنجاح.',
+    'already_following_property_en_ar' => 'أنت تتابع هذا العقار بالفعل.',
+    'property_followed_successfully_en_ar' => 'تمت متابعة العقار بنجاح.',
+    'property_unfollowed_successfully_en_ar' => 'تم إلغاء متابعة العقار بنجاح.',
+    'not_following_property_en_ar' => 'أنت لا تتابع هذا العقار.',
+    'your_rating_en_ar' => 'تقييمك',
+    'stars_en_ar' => 'نجوم',
+    'comment_en_ar' => 'تعليق (اختياري)',
+    'no_followed_properties_en_ar' => 'ليس لديك عقارات متابعة حالياً.',
+    'no_ratings_submitted_en_ar' => 'لم تقم بإرسال أي تقييمات بعد.',
+    'view_property_en_ar' => 'عرض العقار',
+    'rated_on_en_ar' => 'تم التقييم في',
+    // ... (rest of the translations remain the same)
+
+    // General
+    'site_name' => 'منازل العقارية',
+    'toggle_navigation' => 'تبديل التنقل',
+    'home' => 'الرئيسية',
+    'about_us' => 'من نحن',
+    'services' => 'خدماتنا',
+    'listings' => 'العقارات',
+    'contact_us' => 'اتصل بنا',
+    'login' => 'تسجيل الدخول',
+    'register' => 'تسجيل جديد',
+    'logout' => 'تسجيل الخروج',
+    'my_profile' => 'ملفي الشخصي',
+    'admin_panel' => 'لوحة التحكم',
+    'search' => 'بحث',
+    'submit' => 'إرسال',
+    'read_more' => 'اقرأ المزيد',
+    'language' => 'اللغة',
+    'english' => 'الإنجليزية',
+    'arabic' => 'العربية',
+
+    // Homepage
+    'welcome_message' => 'ابحث عن منزل أحلامك معنا',
+    'featured_properties' => 'العقارات المميزة',
+    'latest_news' => 'آخر الأخبار والمقالات',
+    'our_services_title' => 'خدماتنا',
+    'testimonials_title' => 'ماذا يقول عملاؤنا',
+    'consultation' => 'استشارات',
+    'management' => 'إدارة العقارات',
+
+    // Property
+    'property_details' => 'تفاصيل العقار',
+    'price' => 'السعر',
+    'bedrooms' => 'غرف نوم',
+    'bathrooms' => 'حمامات',
+    'area_sqm' => 'المساحة (متر مربع)',
+    'type' => 'النوع',
+    'status' => 'الحالة',
+    'location' => 'الموقع',
+    'view_details' => 'عرض التفاصيل',
+    'rate_property' => 'تقييم هذا العقار',
+    'follow_property' => 'متابعة هذا العقار',
+    'unfollow_property' => 'إلغاء متابعة هذا العقار',
+
+    // Contact Form
+    'contact_form_title' => 'تواصل معنا',
+    'your_name' => 'اسمك',
+    'your_email' => 'بريدك الإلكتروني',
+    'subject' => 'الموضوع',
+    'message' => 'الرسالة',
+    'send_message' => 'إرسال الرسالة',
+    'contact_info' => 'معلومات الاتصال',
+
+    // Auth
+    'username' => 'اسم المستخدم',
+    'password' => 'كلمة المرور',
+    'confirm_password' => 'تأكيد كلمة المرور',
+    'full_name' => 'الاسم الكامل',
+    'email_address' => 'البريد الإلكتروني',
+    'phone_number' => 'رقم الهاتف',
+    'already_have_account' => 'لديك حساب بالفعل؟ سجل الدخول من هنا.',
+    'dont_have_account' => 'ليس لديك حساب؟ سجل من هنا.',
+    'login_successful' => 'تم تسجيل الدخول بنجاح!',
+    'registration_successful' => 'تم التسجيل بنجاح!',
+    'logout_successful' => 'تم تسجيل خروجك بنجاح.',
+    'incorrect_login' => 'اسم المستخدم أو كلمة المرور غير صحيحة.',
+    'login_now_prompt_en_ar' => 'يمكنك الآن تسجيل الدخول باستخدام بيانات الاعتماد الخاصة بك.',
+    'optional_en_ar' => 'اختياري',
+    'or_email_en_ar' => 'أو البريد الإلكتروني',
+
+    // User Profile
+    'edit_profile' => 'تعديل الملف الشخصي',
+    'change_password' => 'تغيير كلمة المرور',
+    'current_password' => 'كلمة المرور الحالية',
+    'new_password' => 'كلمة المرور الجديدة',
+    'confirm_new_password' => 'تأكيد كلمة المرور الجديدة',
+    'update_profile' => 'تحديث الملف الشخصي',
+    'profile_updated_successfully' => 'تم تحديث الملف الشخصي بنجاح.',
+    'password_changed_successfully' => 'تم تغيير كلمة المرور بنجاح.',
+    'followed_properties_en_ar' => 'العقارات المتابعة',
+    'my_ratings_en_ar' => 'تقييماتي',
+    'coming_soon_en_ar' => 'هذه الميزة ستتوفر قريباً.',
+    'password_min_length_en_ar' => 'يجب أن تتكون كلمة المرور من 6 أحرف على الأقل.',
+    'incorrect_current_password_en_ar' => 'كلمة المرور الحالية غير صحيحة.',
+
+    // Admin Panel
+    'dashboard' => 'لوحة التحكم',
+    'manage_properties' => 'إدارة العقارات',
+    'add_new_property' => 'إضافة عقار جديد',
+    'edit_property' => 'تعديل العقار',
+    'delete_property' => 'حذف العقار',
+    'manage_users' => 'إدارة المستخدمين',
+    'property_title' => 'عنوان العقار',
+    'description' => 'الوصف',
+    'property_type' => 'نوع العقار',
+    'property_status' => 'حالة العقار',
+    'address' => 'العنوان',
+    'city' => 'المدينة',
+    'country' => 'الدولة',
+    'main_image' => 'الصورة الرئيسية',
+    'gallery_images' => 'صور المعرض',
+    'add_image' => 'إضافة صورة',
+    'property_added_successfully' => 'تمت إضافة العقار بنجاح.',
+    'property_updated_successfully' => 'تم تحديث العقار بنجاح.',
+    'property_deleted_successfully' => 'تم حذف العقار بنجاح.',
+
+    // Errors & Messages
+    'error_404_message' => 'عفواً! الصفحة التي تبحث عنها غير موجودة.',
+    'error_generic_message' => 'حدث خطأ. يرجى المحاولة مرة أخرى لاحقًا.',
+    'fill_required_fields' => 'يرجى ملء جميع الحقول المطلوبة.',
+    'passwords_do_not_match' => 'كلمات المرور غير متطابقة.',
+    'email_already_exists' => 'هذا البريد الإلكتروني مسجل بالفعل.',
+    'username_already_exists' => 'اسم المستخدم هذا مأخوذ بالفعل.',
+    'invalid_email_format' => 'صيغة البريد الإلكتروني غير صالحة. يرجى إدخال عنوان بريد إلكتروني صالح.',
+
+    // Footer
+    'copyright' => '&copy; {year} منازل العقارية. جميع الحقوق محفوظة.',
+
+    // About Us Page
+    'about_us_intro_placeholder_p1_en_ar' => 'منازل العقارية هي شركة عقارية رائدة مكرسة لمساعدتك في العثور على عقارك المثالي. مع سنوات من الخبرة والالتزام بالتميز، نسعى جاهدين لتقديم أفضل خدمة لعملائنا.',
+    'our_mission_en_ar' => 'مهمتنا',
+    'our_mission_text_placeholder_en_ar' => 'مهمتنا هي تبسيط عملية شراء وبيع العقارات، وجعلها شفافة وخالية من الإجهاد لجميع المعنيين. نحن نستفيد من التكنولوجيا وخبرة السوق لتحقيق أفضل النتائج.',
+    'our_vision_en_ar' => 'رؤيتنا',
+    'our_vision_text_placeholder_en_ar' => 'رؤيتنا هي أن نكون وكالة العقارات الأكثر ثقة واحترامًا في المنطقة، معروفين بنزاهتنا واحترافنا ورضا عملائنا.',
+    'meet_our_team_en_ar' => 'تعرف على فريقنا',
+
+    // Services Page
+    'services_intro_placeholder_en_ar' => 'في منازل العقارية، نقدم مجموعة شاملة من الخدمات لتلبية جميع احتياجاتك العقارية. فريقنا المتمرس مكرس لتقديم دعم وإرشاد استثنائيين طوال رحلتك العقارية.',
+    'service_sales_leasing_en_ar' => 'البيع والتأجير',
+    'service_sales_leasing_desc_en_ar' => 'سواء كنت تتطلع لشراء أو بيع أو تأجير عقار، فإن وكلائنا الخبراء هنا لإرشادك في كل خطوة، مما يضمن معاملة سلسة وناجحة.',
+    'service_property_management_en_ar' => 'إدارة العقارات',
+    'service_property_management_desc_en_ar' => 'نقدم خدمات إدارة عقارات شاملة، معتنين بكل شيء بدءًا من فحص المستأجرين وتحصيل الإيجارات إلى الصيانة والتقارير المالية.',
+    'service_investment_consultancy_en_ar' => 'الاستشارات الاستثمارية',
+    'service_investment_consultancy_desc_en_ar' => 'تقدم خدماتنا الاستشارية الاستثمارية نصائح الخبراء ورؤى السوق لمساعدتك في اتخاذ قرارات مستنيرة وتعظيم عوائدك في سوق العقارات.',
+    'service_valuation_en_ar' => 'تقييم العقارات',
+    'service_valuation_desc_en_ar' => 'تقييم العقارات بدقة أمر بالغ الأهمية. يقدم مقيمونا المعتمدون تقارير تقييم مفصلة وموثوقة لأغراض متنوعة.',
+    'service_legal_assistance_en_ar' => 'المساعدة القانونية',
+    'service_legal_assistance_desc_en_ar' => 'قد يكون التنقل في الجوانب القانونية للعقارات معقدًا. نقدم المساعدة القانونية لضمان أن جميع معاملاتك متوافقة وآمنة.',
+    'service_maintenance_en_ar' => 'خدمات الصيانة',
+    'service_maintenance_desc_en_ar' => 'نقدم خدمات صيانة موثوقة وفي الوقت المناسب للحفاظ على عقارك في أفضل حالة، مما يضمن رضا المستأجرين ويحافظ على قيمته.',
+
+    // Contact Page
+    'contact_intro_placeholder_en_ar' => 'نود أن نسمع منك! سواء كان لديك سؤال حول خدماتنا أو عقاراتنا أو أي شيء آخر، فريقنا مستعد للإجابة على جميع استفساراتك.',
+    'send_us_a_message_en_ar' => 'أرسل لنا رسالة',
+    'contact_address_placeholder_en_ar' => '123 شارع العقارات، مدينة العقار، الرمز البريدي 45678',
+    'contact_phone_placeholder_en_ar' => '+1 234 567 8900',
+    'contact_email_placeholder_en_ar' => 'info@manazel.me',
+    'working_hours_en_ar' => 'ساعات العمل',
+    'contact_hours_placeholder_en_ar' => 'الاثنين - الجمعة: 9:00 صباحًا - 6:00 مساءً<br>السبت: 10:00 صباحًا - 4:00 مساءً<br>الأحد: مغلق',
+    'message_sent_successfully' => 'تم إرسال رسالتك بنجاح! سوف نرد عليك قريبا.',
+
+    // Listings Page
+    'listings_intro_placeholder_en_ar' => 'اكتشف مجموعتنا الواسعة من العقارات. استخدم الفلاتر أدناه للعثور على ما يناسب احتياجاتك.',
+    'search_keyword_placeholder_en_ar' => 'كلمة مفتاحية (مثال: فيلا، إطلالة بحرية)',
+    'all_types_en_ar' => 'جميع الأنواع',
+    'villa_en_ar' => 'فيلا',
+    'apartment_en_ar' => 'شقة',
+    'house_en_ar' => 'منزل',
+    'any_status_en_ar' => 'أي حالة',
+    'for_sale_en_ar' => 'للبيع',
+    'for_rent_en_ar' => 'للإيجار',
+    'location_placeholder_en_ar' => 'الموقع (مثال: المدينة، المنطقة)',
+    'previous_en_ar' => 'السابق',
+    'next_en_ar' => 'التالي',
+
+    // Property Details Page
+    'property_features_en_ar' => 'ميزات العقار',
+    'user_interactions_en_ar' => 'تفاعلات المستخدم',
+    'submit_rating_en_ar' => 'إرسال التقييم',
+    'login_required_en_ar' => 'يتطلب تسجيل الدخول',
+    'follow_en_ar' => 'متابعة',
+    'unfollow_en_ar' => 'إلغاء المتابعة',
+    'contact_agent_en_ar' => 'اتصل بالوكيل',
+    'send_inquiry_en_ar' => 'إرسال استفسار',
+];
+

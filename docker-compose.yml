@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:5.7
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example_root_password
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress_user
+      MYSQL_PASSWORD: example_wordpress_password
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    ports:
+      - "80:80"
+    restart: always
+    volumes:
+      - ./manazel_theme.zip:/var/www/html/wp-content/themes/manazel_theme.zip
+      # You might need to create a themes directory and unzip it there, or handle theme installation via WP-CLI or UI later
+      # - ./wp-content:/var/www/html/wp-content # If you want to persist wp-content outside the container
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: wordpress_user
+      WORDPRESS_DB_PASSWORD: example_wordpress_password
+      WORDPRESS_DB_NAME: wordpress
+
+volumes:
+  db_data:
+
